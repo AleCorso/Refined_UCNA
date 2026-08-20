@@ -81,12 +81,3 @@ workflow is used. Existing compatible replica files are reused, and increasing
 the requested sample count runs only the missing replicas. The dynamics raw
 workflow similarly creates and reuses
 `results/cubic_dynamics/analysis_cache.pkl`.
-
-## Reproducibility scope
-
-This directory includes the source code and the processed numerical values used
-in the publication figures. The raw stochastic data are deliberately omitted
-to keep the archive small; they can be regenerated from the documented
-configurations and seeds. The directory does not yet include a locked package
-environment. For long-term archival reproducibility, record the exact package
-versions in a `requirements.txt` or `environment.yml` alongside this folder.
