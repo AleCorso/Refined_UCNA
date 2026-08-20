@@ -1,4 +1,4 @@
-# UCNA figure-reproduction code
+# Refined UCNA: code and data
 
 This directory contains the code and compact, plot-ready numerical data needed
 to reproduce the stationary and time-dependent figures accompanying the
