@@ -1,0 +1,4 @@
+tau,D,tau2D,reason,nonfinite_endpoints,generated_endpoints
+0.1,10000.0,100.00000000000001,59/50000 nonfinite endpoints; numerical-failure quarantine,59,50000
+0.1,100000.0,1000.0000000000002,50000/50000 nonfinite endpoints; numerical-failure quarantine; zero in-range histogram count,50000,50000
+1.0,100000.0,100000.0,13/50000 nonfinite endpoints; numerical-failure quarantine,13,50000
